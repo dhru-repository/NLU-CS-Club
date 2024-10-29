@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wheeling Computer Science Club - Members Page</title>
+</head>
+<body>
+
+<h1>Wheeling Computer Science Club</h1>
+<p>Welcome to the Members Page! Here you can learn about the dedicated individuals leading our Computer Science club.</p>
+
+
+<!-- E-board Members Section -->
+<h2>Executive Board Members</h2>
+<p>Meet the leaders of the Wheeling Computer Science Club:</p>
+<ul>
+    <li>Steven - President</li>
+    <li>Beatrice - Vice President</li>
+    <li>Christian - Secretary</li>
+</ul>
+
+<p>Together, we organize events, workshops, and activities that bring our club members closer to the tech industry and helps make a strong learning community.</p>
+
+</body>
+</html>
